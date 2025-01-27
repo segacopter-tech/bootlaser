@@ -1,5 +1,5 @@
 # bootlaser
-very simple system software for your arduino
+basically arduino safe boot
 
 # copyright
 this project is licensed under the [mit license](https://github.com/segacopter-tech/bootlaser/blob/main/LICENSE)
