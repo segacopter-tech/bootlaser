@@ -1,3 +1,5 @@
+// You may upload this to your board separately to the original file, and do a speed test. This is recommended.
+
 void setup() {
   Serial.begin(9600);
 }
