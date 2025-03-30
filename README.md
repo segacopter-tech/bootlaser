@@ -9,4 +9,4 @@ download the ino code and then upload it to your board. run it to test your ardu
 [Note: this part is going to be updated.]
 
 # Contribute
-make a **pull request** make your changes and click **contribute**
+**fork** this repo, make your changes and click **contribute** then create a **pull request**.
