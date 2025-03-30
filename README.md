@@ -1,12 +1,12 @@
 # Bootlaser
-arduino system check.
+Arduino system check.
 
 # Copyright
-this project is licensed under the [mit license](https://github.com/segacopter-tech/bootlaser/blob/main/LICENSE)
+This project is licensed under the [mit license](https://github.com/segacopter-tech/bootlaser/blob/main/LICENSE)
 
 # Install
-download the ino code and then upload it to your board. run it to test your arduino device.
-[Note: this part is going to be updated.]
+Download the Bootlaser.ino file and then upload it to your board. Run it to test your arduino device.\
+You may also grab any of the extras and run those, it is recommended.
 
 # Contribute
-**fork** this repo, make your changes and click **contribute** then create a **pull request**.
+**Fork** this repo, make your changes and click **contribute** then create a **pull request**.
